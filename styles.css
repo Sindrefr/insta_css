@@ -1,0 +1,47 @@
+body{
+font-family: 'Sarabun', sans-serif;
+background-color: rgb(255, 255, 255);
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+.card {
+    padding: 7px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    max-width: 340px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 2em;
+    border: 2em;
+    border-radius: 1em;
+    border-style: inset;
+    border-width: thin;
+    border-color: black;
+}
+
+.top-text {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.text{
+    margin: auto;
+}
+.icon{
+    margin-top: 7px;
+    margin-right: 5px;
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+.icon2{
+    margin-top: 7px;
+    float: right;
+    margin-right: 5px;
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+.text3{
+    margin: auto;
+    opacity: 0.6;
+}
